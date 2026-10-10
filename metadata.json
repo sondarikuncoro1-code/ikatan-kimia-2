@@ -1,0 +1,6 @@
+{
+  "name": "VSEPR Lab: Menguak Misteri Ruang Molekul",
+  "description": "Laboratorium virtual interaktif 3D berbasis inkuiri terbimbing untuk mempelajari teori domain elektron VSEPR, gaya tolakan PEB vs PEI, dan geometri ruang molekul bagi siswa SMA Fase F.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
